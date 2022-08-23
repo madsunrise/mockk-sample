@@ -92,3 +92,6 @@
             at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444) 
             at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145) 
     2022-08-23 18:30:50.234 14514-14549/com.example.playground E/TestRunner: ----- end exception -----
+
+
+Any ideas about running this test with MockK 1.12.7?
