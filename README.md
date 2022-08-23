@@ -1,3 +1,6 @@
+<h3>The problem connected with updating MockK from 1.12.5 to 1.12.7 and running instrumented test.</h3>
+
+
 1. I'm trying to run ExampleInstrumentedTest located in androidTest folder.
 
 2. Please, pay your attention on ExampleInstrumentedTest.kt and app/build.gradle files
